@@ -1,0 +1,52 @@
+body{
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  background-color: #fff;
+}
+
+h1 {
+  font-size: 56px;
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+h2 {
+  font-size: 56px;
+  font-weight: 700;
+  color: #2E2F42;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #2E2F42;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  line-height: 1.5;
+  later-spacin: 0.04em;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: #2E2F42;
+}
+
+.logo {
+  font-family:"Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  litter-spacsng: 0.03em ;
+  line-height: 1.33;
+}
+
+.logo:active{
+  color: #4d5ae5;
+}
