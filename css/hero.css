@@ -1,0 +1,19 @@
+#hero {
+  background-color: #2e2f42;
+  line-height: 1.07;
+}
+
+#hero button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-weight: 500;
+}
+
+#hero button:hover,
+#hero button:focus {
+  background-color: #404bbf;
+}
+
+h1 {
+    text-align: center;
+}
