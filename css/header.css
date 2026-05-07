@@ -1,27 +1,27 @@
-#header a {
+.header a {
   color: #2e2f42;
 }
 
 
-#header nav a {
+.header nav a {
   font-size: 16px;
   font-weight: 500;
 }
 
 
-#header a:hover,
-#header a:focus {
+.header a:hover,
+.header a:focus {
   color: #404bbf;
 }
 
 
-#header .logo:hover,
-#header .logo:focus {
+.header .logo:hover,
+.header .logo:focus {
   color: #2e2f42;
 }
 
 
-#header address a {
+.header address a {
   color: #434455;
   font-style: normal;
 }
