@@ -37,5 +37,8 @@
   color: #2e2f42;
 }
 
-
+.logo span:hover,
+.logo span:focus {
+  color: #404bbf;
+}
 
