@@ -3,10 +3,11 @@
 }
 
 
-#team h2,
-#team h3,
-#team p {
+.team h2,
+.team h3,
+.team p {
   text-align: center;
+  36px
 }
 
 
