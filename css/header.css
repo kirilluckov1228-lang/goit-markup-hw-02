@@ -37,8 +37,11 @@
   color: #2e2f42;
 }
 
-.logo span:hover,
-.logo span:focus {
+.header .logo span:hover,
+.header .logo span:focus {
   color: #404bbf;
 }
 
+.address {
+  font-style: normal;
+}
