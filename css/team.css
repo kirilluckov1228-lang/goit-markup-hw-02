@@ -1,16 +1,27 @@
-.team {
-    background-color: #F4F4FD;
+ .team-tit{
+  font-size: 36px;
+  font-weight: 700;
+  color: #2E2F42;
+  line-height: 1.11;
+  text-align: center;
+ }
+
+.team{
+  background-color: #F4F4FD;
 }
 
 
-.team h2,
-.team h3,
-.team p {
+.team-tit,
+.team-title,
+.team-text {
   text-align: center;
-  36px
 }
 
 
 .team-card {
   background-color: #ffffff;
+}
+
+.team-text{
+  line-height: 1.5;
 }

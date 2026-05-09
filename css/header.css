@@ -45,3 +45,8 @@
 .address {
   font-style: normal;
 }
+
+.nav-link,
+.contact-link {
+  line-height: 1.5;
+}
